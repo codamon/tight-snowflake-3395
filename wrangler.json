@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "tight-snowflake-3395",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "aafc58d5-c3fa-4e0e-a95b-cfe88495d38b",
+      "database_name": "summer-river-85b4-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
